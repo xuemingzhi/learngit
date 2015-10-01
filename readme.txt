@@ -13,4 +13,9 @@ Git is free software distributed under the GPL.
 switched to branch dev。
 
 
+<<<<<<< HEAD
 333333
+=======
+————————
+master add。
+>>>>>>> master
