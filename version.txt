@@ -1,1 +1,4 @@
 version : 1.0.0
+——————————————————
+release update
+修复bug若干
